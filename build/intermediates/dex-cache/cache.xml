@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_df80d70b4bc96378f032920d856d0a681f00f2b2/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_287982312238402b1790c30c772146792c09fffc/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_1abea5f076263db9ffcabfc5e42377574cdb4e4c/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1ac74021c20ae430386d93d1a6aa8530d7988b39">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5a6ee03923cfb82d4caba3947d27979ac1a16ac3/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_0487f74ce0f024b35eb7839dee46c4d2ddb2dcf7/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_1d40d1aed8d52a848c2b46cff9e231b4315b08e7/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="97a3d6ea70a10319138f4f492309122d752d509b">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_53a2c33f811213c5f2c087232835749234aae46f/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.1_5b3be37eebf30d03fc3dbf855b0a8bd49a65a098/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_58dc9fb619071b15eff47cb27b3f229358ae2034/classes.dex" />
+    </item>
+    <item
+        jar="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/lu/Pro/ArabicaCoffee/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.1_7e17c50452e92807ac1311af94eb88191b9f7cbd/classes.dex" />
+    </item>
+
+</items>
